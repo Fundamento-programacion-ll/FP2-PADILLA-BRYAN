@@ -39,11 +39,11 @@ var a = 'hola'
 
 # Tablas
 
-│ edad │nombre│
-│------│------│
-│ 24 │ kevin │
-│ 24 │ kevin │
-│ 24 │ kevin │
+### tablas
+|edad |nombre|
+|-----|------|
+|19   |Bryan|
+|15   |Juan |
 
 # Lineas 
 
