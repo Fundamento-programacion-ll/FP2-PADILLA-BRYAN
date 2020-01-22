@@ -24,7 +24,7 @@
 Bryan [De clik aqui](http://itq.edu.ec/)
 
 # Agregar imagenes 
-![GOOGLE](https://androidayuda.com/app/uploads-androidayuda.com/2016/10/Google-Logo.jpg)
+![GOOGLE](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwilm8-bwJfnAhWmxFkKHQcBCYsQjRx6BAgBEAQ&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F307500-electronica-daft-punk-gif&psig=AOvVaw3_VsC_Yv2PAZL-4AC8NXGa&ust=1579792599853208)
 
 # Codigo
 
