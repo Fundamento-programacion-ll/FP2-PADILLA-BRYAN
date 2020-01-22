@@ -25,4 +25,4 @@ Bryan [De clik aqui](http://itq.edu.ec/)
 
 ### Agregar imagenes 
 
-[GOOGLE](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiRnaqEgpbnAhUxuVkKHQVUA3AQjRx6BAgBEAQ&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FYouTube_(canal)&psig=AOvVaw2S1hu3pZj3FLX-aFiSmGSG&ust=1579741556081881)
+[GOOGLE](https://imagenes.universia.net/gc/net/images/cultura/y/yo/you/youtube-.jpg)
