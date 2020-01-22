@@ -25,4 +25,4 @@ Bryan [De clik aqui](http://itq.edu.ec/)
 
 ### Agregar imagenes 
 
-[GOOGLE](https://imagenes.universia.net/gc/net/images/cultura/y/yo/you/youtube-.jpg)
+(https://imagenes.universia.net/gc/net/images/cultura/y/yo/you/youtube-.jpg)
