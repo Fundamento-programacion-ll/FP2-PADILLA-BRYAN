@@ -39,21 +39,21 @@ var a = 'hola'
 
 # Tablas
 
-│ edad │nombre│
-│------│------│
-│ 24 │ kevin │
-│ 24 │ kevin │
-│ 24 │ kevin │
+### tablas
+|edad |nombre|
+|-----|------|
+|19   |Bryan|
+|15   |Juan |
 
 # Lineas 
 
 ___
 
 # Videos 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QF9q_YRxTS4" target="_blank">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=W4ODD2tPeNE" target="_blank">
 <img
-src="http://img.youtube.com/vi/QF9q_YRxTS4/0.jpg"
+src="http://img.youtube.com/vi/W4ODD2tPeNE/0.jpg"
 ></img>
 </a>
 
-[![imagen videos](http://img.youtube.com/vi/QF9q_YRxTS4/0.jpg)](http://www.youtube.com/watch?feature=player_embedded&v=QF9q_YRxTS4)
+[![imagen videos](http://img.youtube.com/vi/W4ODD2tPeNE/0.jpg)](http://www.youtube.com/watch?feature=player_embedded&v=W4ODD2tPeNE)
