@@ -24,7 +24,7 @@
 Bryan [De clik aqui](http://itq.edu.ec/)
 
 # Agregar imagenes 
-![GOOGLE](https://androidayuda.com/app/uploads-androidayuda.com/2016/10/Google-Logo.jpg)
+![GOOGLE](https://img-cdn.hipertextual.com/files/2015/09/googles-new-logo-.gif?strip=all&lossy=1&quality=55&ssl=1)
 
 # Codigo
 
