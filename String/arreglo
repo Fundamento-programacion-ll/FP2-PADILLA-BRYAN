@@ -1,0 +1,41 @@
+var arreglo=[
+    {nombre:'Bryan',
+    apellido:'Padilla',
+    edad:21},
+    {nombre:'Juan',
+    apellido:'Padilla',
+    edad:31}
+];
+var buscarUnUsuario=(arreglo,usuarioaBuscar)=>{
+    var usuarioEncontrado=arreglo.find(usuario=>{
+        return usuario.nombre === usuarioaBuscar;
+    });
+    console.log(usuarioEncontrado);
+};
+buscarUnUsuario(arreglo,'kevin');
+
+var agregarUsuario=(arreglo,nombre,apellido,edad)=>{
+    arreglo.unshift({nombre,apellido,edad});
+    console.log(arreglo);
+};
+agregarUsuario(arreglo,'jhon','Mon',34);
+
+var buscarUnUsuarioYagregar=(arreglo,nombre)=>{
+    var usuarioencontrado=arreglo.find(usuario=>{
+        return usuario.nombre === nombre;
+    });
+    if(usuarioencontrado===undefined){
+        console.log('El usuario no existe');
+        agregarUsuario(arreglo,nombre,'Mon',24);
+    }else{
+        console.log(usuarioencontrado);
+    }
+
+};
+buscarUnUsuarioYagregar(arreglo,'Daniel');
+
+var eliminarUsuario= (arreglo,nombre)=>{
+    var usuarioencontrado=arreglo.filter(usuario=>{
+        return usuario.nombre !== nombre;
+    });
+};
